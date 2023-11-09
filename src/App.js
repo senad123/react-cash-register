@@ -10,7 +10,7 @@ const DenominationValues = [
   { type: "Tens", value: 10, count:0 }, 
   { type: "Fives", value:5, count:0 }, 
   { type: "Twos", value:2, count:0 }, 
-  { type: "Ones", value:1, count:0 }
+  { type: "jedan", value:1, count:0 }
 ]
 
 class App extends Component {
